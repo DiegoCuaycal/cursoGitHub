@@ -8,6 +8,9 @@
 .profesor{
     text-align: center;
     font-size: 3.4rem;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    column-gap: 2rem;
     margin-top: 3rem;
 }
 
