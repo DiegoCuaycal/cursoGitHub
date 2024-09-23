@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    color: blueviolet;
+    font-size: 5.8rem;
+
+}
+
+.profesor{
+    text-align: center;
+    font-size: 3.4rem;
+    margin-top: 3rem;
+}
+
+.titulo, .profesor{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
